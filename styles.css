@@ -1,0 +1,36 @@
+.shahroz_picture{
+	margin: 20px 20px;
+	width: 150px;
+	height: 250px;
+	box-shadow: 10px 10px 10px 10px #ffcefe;
+}
+
+body{
+	font-family: verdana, calibri, sans-serif;
+}
+
+.card{
+	padding: 20px;
+	background: #ddebf8;
+	display: flex;
+	justify-content: space-around;
+	margin: 0 auto;
+	width: 550px;
+	text-color: #2b2839;
+	border-bottom: 8px solid #d8cefe;
+	font-size: larger;
+}
+
+.italic{
+	font-style: oblique;
+}
+
+//.border_blue{
+	border: 1px dotted blue;
+}
+
+.child{
+	padding: 20px;
+	margin: auto;
+	text-align: center;
+}
